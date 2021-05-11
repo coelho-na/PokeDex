@@ -10,4 +10,4 @@
 <br>
 <br>
 
-[Online Aqui =>](https://mystifying-brahmagupta-26e246.netlify.app/)
+[Online Aqui](https://mystifying-brahmagupta-26e246.netlify.app/)
